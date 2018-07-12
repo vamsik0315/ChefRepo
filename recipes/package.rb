@@ -1,5 +1,5 @@
 package "httpd" do
-	action:remove
+	action:install
 end
 
 package "java" do 
